@@ -1,0 +1,5 @@
+// donload package by
+npm i ham-calc
+
+//Run it by
+npx ham-calc
